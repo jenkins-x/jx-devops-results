@@ -1,0 +1,38 @@
+{
+  "uid" : "e10ef9b7e1a86beb",
+  "name" : "quickstart node-http\n Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart node-http\n Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e10ef9b7e1a86beb.json",
+  "parameterValues" : [ ]
+}
