@@ -1,0 +1,38 @@
+{
+  "uid" : "5a400fc63437e03d",
+  "name" : "quickstart rails-shopping-cart\n Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart rails-shopping-cart\n Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a400fc63437e03d.json",
+  "parameterValues" : [ ]
+}

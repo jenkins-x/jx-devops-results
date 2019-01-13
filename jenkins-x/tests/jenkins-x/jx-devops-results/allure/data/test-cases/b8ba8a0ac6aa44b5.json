@@ -1,0 +1,38 @@
+{
+  "uid" : "b8ba8a0ac6aa44b5",
+  "name" : "import\n Given valid parameters when running import creates an app from the specified folder and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#import\n Given valid parameters when running import creates an app from the specified folder and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8ba8a0ac6aa44b5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,38 @@
+{
+  "uid" : "80c152ee778737e1",
+  "name" : "quickstart vertx-rest-prometheus Creates an app",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart vertx-rest-prometheus Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80c152ee778737e1.json",
+  "parameterValues" : [ ]
+}
