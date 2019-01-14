@@ -1,0 +1,37 @@
+{
+  "uid" : "8ee7357346f5e6cd",
+  "name" : "create spring\n Given valid parameters when running jx create spring creates a spring application and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#create spring\n Given valid parameters when running jx create spring creates a spring application and promotes it to staging\n",
+  "time" : {
+    "duration" : 666948
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ee7357346f5e6cd.json",
+  "parameterValues" : [ ]
+}

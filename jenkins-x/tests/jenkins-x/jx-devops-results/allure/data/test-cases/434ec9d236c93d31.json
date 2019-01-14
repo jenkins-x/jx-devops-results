@@ -1,0 +1,38 @@
+{
+  "uid" : "434ec9d236c93d31",
+  "name" : "quickstart spring-boot-web\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart spring-boot-web\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "434ec9d236c93d31.json",
+  "parameterValues" : [ ]
+}
