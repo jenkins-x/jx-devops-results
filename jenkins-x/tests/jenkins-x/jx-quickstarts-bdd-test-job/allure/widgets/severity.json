@@ -1,0 +1,265 @@
+[ {
+  "uid" : "9269de05576fde11",
+  "name" : "quickstart angular-io-quickstart Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7bfa899223ce6a6a",
+  "name" : "quickstart rust-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9b0e803f281ea1ae",
+  "name" : "quickstart python-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9ce3ffc1e8e8ea4e",
+  "name" : "quickstart spring-boot-web\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "760badb2340d3ace",
+  "name" : "quickstart spring-boot-web\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "68553660f654908e",
+  "name" : "quickstart rails-shopping-cart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "596fef0c4573ca4f",
+  "name" : "quickstart vertx-rest-prometheus Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8fea92230e1f2da7",
+  "name" : "quickstart golang-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8cce2364fd5d59e7",
+  "name" : "quickstart android-quickstart Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9137c000b51953ec",
+  "name" : "quickstart rust-http\n Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8e5261d57cbf0a1b",
+  "name" : "quickstart node-http\n Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f23e7b0bde39f30",
+  "name" : "quickstart python-http\n Given valid parameters when operating on the quickstart creates a python-http quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c7be56494fd0a511",
+  "name" : "quickstart rails-shopping-cart\n Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "661dbd374f18bada",
+  "name" : "quickstart python-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "bd4bb2b44e34b834",
+  "name" : "quickstart react-quickstart\n Given valid parameters when operating on the quickstart creates a react-quickstart quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "866e25a1af3358de",
+  "name" : "quickstart golang-http\n Given valid parameters when operating on the quickstart creates a golang-http quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "560e255a81580ba4",
+  "name" : "quickstart golang-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d65dca46fcc14f97",
+  "name" : "quickstart spring-boot-rest-prometheus Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "8e5b501ced53f4b5",
+  "name" : "quickstart node-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "de5e64b31df5378",
+  "name" : "quickstart aspnet-app Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "53e1a095a6f2fb15",
+  "name" : "quickstart scala-akka-http-quickstart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a52b8b23882d038d",
+  "name" : "quickstart react-quickstart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ce1139bf58452c6",
+  "name" : "quickstart rust-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6379d9cc08d6875c",
+  "name" : "quickstart open-liberty Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b0596728d6612291",
+  "name" : "import\n Given valid parameters when running import creates an app from the specified folder and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "360d450938637acf",
+  "name" : "quickstart rails-shopping-cart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "14c5a2387f513867",
+  "name" : "quickstart scala-akka-http-quickstart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6980ad7bfe34a0bf",
+  "name" : "quickstart react-quickstart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3066370c832b4b63",
+  "name" : "create spring\n Given valid parameters when running jx create spring creates a spring application and promotes it to staging\n",
+  "time" : {
+    "duration" : 777159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4368d839eb59e237",
+  "name" : "quickstart spring-boot-http-gradle Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f4494c6d362f3eae",
+  "name" : "quickstart node-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d0435d1e04b6acc9",
+  "name" : "quickstart scala-akka-http-quickstart\n Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c44be0023a2e01f6",
+  "name" : "quickstart spring-boot-web\n Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

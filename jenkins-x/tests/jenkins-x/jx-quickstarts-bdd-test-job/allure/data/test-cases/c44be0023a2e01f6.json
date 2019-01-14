@@ -1,0 +1,56 @@
+{
+  "uid" : "c44be0023a2e01f6",
+  "name" : "quickstart spring-boot-web\n Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart spring-boot-web\n Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "356f2b604ce7e1e6",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    }, {
+      "uid" : "97c9eaad65ef8e26",
+      "status" : "failed",
+      "time" : {
+        "duration" : 287
+      }
+    }, {
+      "uid" : "221f417c6e85b014",
+      "status" : "failed",
+      "time" : {
+        "duration" : 349
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c44be0023a2e01f6.json",
+  "parameterValues" : [ ]
+}

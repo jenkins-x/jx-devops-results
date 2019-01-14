@@ -1,0 +1,56 @@
+{
+  "uid" : "68553660f654908e",
+  "name" : "quickstart rails-shopping-cart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart rails-shopping-cart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3542676be503ed7",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3a5302658dee81ce",
+      "status" : "passed",
+      "time" : {
+        "duration" : 163
+      }
+    }, {
+      "uid" : "6311ee104cdd0fb5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 454
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68553660f654908e.json",
+  "parameterValues" : [ ]
+}

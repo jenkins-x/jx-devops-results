@@ -1,0 +1,56 @@
+{
+  "uid" : "9137c000b51953ec",
+  "name" : "quickstart rust-http\n Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart rust-http\n Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7070c19c781dd0f5",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7b7edd9326626f61",
+      "status" : "failed",
+      "time" : {
+        "duration" : 215
+      }
+    }, {
+      "uid" : "433f3858ebbbeb39",
+      "status" : "failed",
+      "time" : {
+        "duration" : 217
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9137c000b51953ec.json",
+  "parameterValues" : [ ]
+}

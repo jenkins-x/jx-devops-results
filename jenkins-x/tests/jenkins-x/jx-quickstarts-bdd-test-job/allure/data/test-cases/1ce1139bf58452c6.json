@@ -1,0 +1,56 @@
+{
+  "uid" : "1ce1139bf58452c6",
+  "name" : "quickstart rust-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart rust-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee005685aa4b3d36",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fc2433e8210e7b75",
+      "status" : "passed",
+      "time" : {
+        "duration" : 210
+      }
+    }, {
+      "uid" : "4b5b43232b1e9908",
+      "status" : "passed",
+      "time" : {
+        "duration" : 210
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ce1139bf58452c6.json",
+  "parameterValues" : [ ]
+}

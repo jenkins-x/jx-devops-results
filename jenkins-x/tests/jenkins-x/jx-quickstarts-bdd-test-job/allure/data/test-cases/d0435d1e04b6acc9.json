@@ -1,0 +1,56 @@
+{
+  "uid" : "d0435d1e04b6acc9",
+  "name" : "quickstart scala-akka-http-quickstart\n Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart scala-akka-http-quickstart\n Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a8b6bf898db57212",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    }, {
+      "uid" : "535c83483aaa6104",
+      "status" : "failed",
+      "time" : {
+        "duration" : 200
+      }
+    }, {
+      "uid" : "1a18c4ce05a12c4d",
+      "status" : "failed",
+      "time" : {
+        "duration" : 193
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0435d1e04b6acc9.json",
+  "parameterValues" : [ ]
+}

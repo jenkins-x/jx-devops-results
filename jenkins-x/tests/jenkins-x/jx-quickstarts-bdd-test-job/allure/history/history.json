@@ -1,0 +1,563 @@
+{
+  "BddJx Suite:BddJx Suite#quickstart spring-boot-web\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ce3ffc1e8e8ea4e",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart react-quickstart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6980ad7bfe34a0bf",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart rust-http\n Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9137c000b51953ec",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart golang-http\n Given valid parameters when operating on the quickstart creates a golang-http quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "866e25a1af3358de",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart rust-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ce1139bf58452c6",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart golang-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fea92230e1f2da7",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart python-http\n Given valid parameters when operating on the quickstart creates a python-http quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f23e7b0bde39f30",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart open-liberty Creates an app" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6379d9cc08d6875c",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart python-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "661dbd374f18bada",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart scala-akka-http-quickstart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53e1a095a6f2fb15",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart scala-akka-http-quickstart\n Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0435d1e04b6acc9",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart node-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e5b501ced53f4b5",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart rails-shopping-cart\n Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7be56494fd0a511",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart node-http\n Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e5261d57cbf0a1b",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart spring-boot-rest-prometheus Creates an app" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d65dca46fcc14f97",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart rails-shopping-cart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "360d450938637acf",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart vertx-rest-prometheus Creates an app" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "596fef0c4573ca4f",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart node-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4494c6d362f3eae",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart android-quickstart Creates an app" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8cce2364fd5d59e7",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart react-quickstart\n Given valid parameters when operating on the quickstart creates a react-quickstart quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd4bb2b44e34b834",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart golang-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "560e255a81580ba4",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart spring-boot-web\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "760badb2340d3ace",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart spring-boot-http-gradle Creates an app" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4368d839eb59e237",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart react-quickstart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a52b8b23882d038d",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart aspnet-app Creates an app" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de5e64b31df5378",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart rails-shopping-cart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "68553660f654908e",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#import\n Given valid parameters when running import creates an app from the specified folder and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0596728d6612291",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#create spring\n Given valid parameters when running jx create spring creates a spring application and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3066370c832b4b63",
+      "status" : "passed",
+      "time" : {
+        "duration" : 777159
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart rust-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bfa899223ce6a6a",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart python-http\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b0e803f281ea1ae",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart scala-akka-http-quickstart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "14c5a2387f513867",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart angular-io-quickstart Creates an app" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9269de05576fde11",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart spring-boot-web\n Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c44be0023a2e01f6",
+      "status" : "skipped",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "uid" : "a062f866ca712aa9",
+  "name" : "quickstart rails-shopping-cart\n Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart rails-shopping-cart\n Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging\n",
+  "time" : {
+    "duration" : 470
+  },
+  "status" : "failed",
+  "statusTrace" : "/home/jenkins/go/jenkins-x/bdd-jx/main.go:325\nNo future change is possible.  Bailing out early after 0.004s.\nExpected\n    <int>: 1\nto match exit code:\n    <int>: 0\n/home/jenkins/go/jenkins-x/bdd-jx/main.go:340",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a062f866ca712aa9.json",
+  "parameterValues" : [ ]
+}

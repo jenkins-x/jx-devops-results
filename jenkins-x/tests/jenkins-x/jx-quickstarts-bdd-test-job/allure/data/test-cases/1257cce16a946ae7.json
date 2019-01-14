@@ -1,0 +1,36 @@
+{
+  "uid" : "1257cce16a946ae7",
+  "name" : "quickstart spring-boot-rest-prometheus Creates an app",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart spring-boot-rest-prometheus Creates an app",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1257cce16a946ae7.json",
+  "parameterValues" : [ ]
+}
