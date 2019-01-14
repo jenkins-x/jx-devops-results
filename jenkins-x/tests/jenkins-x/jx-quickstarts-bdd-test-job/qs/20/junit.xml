@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <testsuite name="BddJx Suite" tests="26" failures="8" errors="0" time="1244.481">
+      <testcase name="quickstart python-http&#xA; Given valid parameters when operating on the quickstart creates a python-http quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.364193446">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.000s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-python-http-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart python-http&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.293084745"></testcase>
+      <testcase name="quickstart python-http&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.258000619"></testcase>
+      <testcase name="quickstart rust-http&#xA; Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.217663429">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.000s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-rust-http-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart rust-http&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.210081791"></testcase>
+      <testcase name="quickstart rust-http&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.208120128"></testcase>
+      <testcase name="quickstart scala-akka-http-quickstart&#xA; Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.193660618">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.000s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-scala-akka-http-quickstart-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart scala-akka-http-quickstart&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.271884929"></testcase>
+      <testcase name="quickstart scala-akka-http-quickstart&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.398926762"></testcase>
+      <testcase name="quickstart android-quickstart Creates an app" classname="BddJx Suite" time="0">
+          <skipped></skipped>
+      </testcase>
+      <testcase name="quickstart node-http&#xA; Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.304388604">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.001s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-node-http-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart node-http&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.439371652"></testcase>
+      <testcase name="quickstart node-http&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.389159923"></testcase>
+      <testcase name="quickstart angular-io-quickstart Creates an app" classname="BddJx Suite" time="0">
+          <skipped></skipped>
+      </testcase>
+      <testcase name="quickstart rails-shopping-cart&#xA; Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.470076623">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.004s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-rails-shopping-cart-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart rails-shopping-cart&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.359266093"></testcase>
+      <testcase name="quickstart rails-shopping-cart&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.454853826"></testcase>
+      <testcase name="quickstart aspnet-app Creates an app" classname="BddJx Suite" time="0">
+          <skipped></skipped>
+      </testcase>
+      <testcase name="quickstart spring-boot-rest-prometheus Creates an app" classname="BddJx Suite" time="0">
+          <skipped></skipped>
+      </testcase>
+      <testcase name="quickstart golang-http&#xA; Given valid parameters when operating on the quickstart creates a golang-http quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.397755967">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.000s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-golang-http-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart golang-http&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.405200621"></testcase>
+      <testcase name="quickstart golang-http&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.367977425"></testcase>
+      <testcase name="quickstart spring-boot-web&#xA; Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.349199569">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.000s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-spring-boot-web-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart spring-boot-web&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.279630786"></testcase>
+      <testcase name="quickstart spring-boot-web&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.433893081"></testcase>
+      <testcase name="create spring&#xA; Given valid parameters when running jx create spring creates a spring application and promotes it to staging&#xA;" classname="BddJx Suite" time="739.682842403"></testcase>
+      <testcase name="quickstart open-liberty Creates an app" classname="BddJx Suite" time="0">
+          <skipped></skipped>
+      </testcase>
+      <testcase name="quickstart react-quickstart&#xA; Given valid parameters when operating on the quickstart creates a react-quickstart quickstart and promotes it to staging&#xA;" classname="BddJx Suite" time="0.234612215">
+          <failure type="Failure">/home/jenkins/go/jenkins-x/bdd-jx/main.go:325&#xA;No future change is possible.  Bailing out early after 0.000s.&#xA;Expected&#xA;    &lt;int&gt;: 1&#xA;to match exit code:&#xA;    &lt;int&gt;: 0&#xA;/home/jenkins/go/jenkins-x/bdd-jx/main.go:340</failure>
+          <system-out>      Creating app bdd-react-quickstart-1547455977 in dir /tmp/bdd-506902756&#xA;      Using Git provider URL https://github.beescloud.com&#xA;error: failed to load quickstarts: Running in batch mode and no default API token found&#xA;</system-out>
+      </testcase>
+      <testcase name="quickstart react-quickstart&#xA; Given invalid parameters when -p param (project name) is missing exits with signal 1&#xA;" classname="BddJx Suite" time="0.184096407"></testcase>
+      <testcase name="quickstart react-quickstart&#xA; Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1&#xA;" classname="BddJx Suite" time="0.184220025"></testcase>
+      <testcase name="quickstart vertx-rest-prometheus Creates an app" classname="BddJx Suite" time="0">
+          <skipped></skipped>
+      </testcase>
+      <testcase name="import&#xA; Given valid parameters when running import creates an app from the specified folder and promotes it to staging&#xA;" classname="BddJx Suite" time="497.101889336"></testcase>
+      <testcase name="quickstart spring-boot-http-gradle Creates an app" classname="BddJx Suite" time="0">
+          <skipped></skipped>
+      </testcase>
+  </testsuite>
