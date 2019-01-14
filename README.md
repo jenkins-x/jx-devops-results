@@ -4,7 +4,7 @@ This git repository stores build logs and test reports from the [Jenkins X](http
 
 ## Test Reports
 
-* [jx-quickstarts-bdd-test-job](https://jenkins-x.github.io/jx-devops-results/jenkins-x/tests/jenkins-x/x-quickstarts-bdd-test-job/allure/)
+* [jx-quickstarts-bdd-test-job](https://jenkins-x.github.io/jx-devops-results/jenkins-x/tests/jenkins-x/jx-quickstarts-bdd-test-job/allure/)
 
 ## Browse
 
