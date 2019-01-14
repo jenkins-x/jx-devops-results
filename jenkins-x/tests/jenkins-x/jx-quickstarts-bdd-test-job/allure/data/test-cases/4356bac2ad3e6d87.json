@@ -1,0 +1,37 @@
+{
+  "uid" : "4356bac2ad3e6d87",
+  "name" : "quickstart node-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart node-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 827
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4356bac2ad3e6d87.json",
+  "parameterValues" : [ ]
+}

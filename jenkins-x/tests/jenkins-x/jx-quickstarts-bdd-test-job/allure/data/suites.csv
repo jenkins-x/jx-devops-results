@@ -1,86 +1,86 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart python-http
+"passed","","","896","","BddJx Suite","","BddJx Suite","","quickstart rails-shopping-cart
  Given invalid parameters when -p param (project name) is missing exits with signal 1
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart react-quickstart
+"passed","","","403","","BddJx Suite","","BddJx Suite","","quickstart scala-akka-http-quickstart
  Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
 ",""
-"passed","","","777159","","BddJx Suite","","BddJx Suite","","create spring
+"passed","","","601","","BddJx Suite","","BddJx Suite","","quickstart rust-http
+ Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
+",""
+"passed","","","772400","","BddJx Suite","","BddJx Suite","","create spring
  Given valid parameters when running jx create spring creates a spring application and promotes it to staging
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart open-liberty Creates an app",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart rails-shopping-cart
- Given invalid parameters when -p param (project name) is missing exits with signal 1
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart android-quickstart Creates an app",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart golang-http
- Given valid parameters when operating on the quickstart creates a golang-http quickstart and promotes it to staging
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart golang-http
+"passed","","","586","","BddJx Suite","","BddJx Suite","","quickstart node-http
  Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart rust-http
- Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-web
- Given invalid parameters when -p param (project name) is missing exits with signal 1
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart scala-akka-http-quickstart
+"passed","","","576","","BddJx Suite","","BddJx Suite","","quickstart golang-http
  Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart rust-http
- Given invalid parameters when -p param (project name) is missing exits with signal 1
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart node-http
+"passed","","","493","","BddJx Suite","","BddJx Suite","","quickstart react-quickstart
  Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-web
- Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging
+"passed","","","1117","","BddJx Suite","","BddJx Suite","","quickstart rails-shopping-cart
+ Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
+",""
+"passed","","","616","","BddJx Suite","","BddJx Suite","","quickstart golang-http
+ Given invalid parameters when -p param (project name) is missing exits with signal 1
+",""
+"passed","","","468","","BddJx Suite","","BddJx Suite","","quickstart react-quickstart
+ Given invalid parameters when -p param (project name) is missing exits with signal 1
 ",""
 "skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart angular-io-quickstart Creates an app",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart scala-akka-http-quickstart
- Given invalid parameters when -p param (project name) is missing exits with signal 1
+"failed","","","538","","BddJx Suite","","BddJx Suite","","quickstart golang-http
+ Given valid parameters when operating on the quickstart creates a golang-http quickstart and promotes it to staging
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart node-http
- Given invalid parameters when -p param (project name) is missing exits with signal 1
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-http-gradle Creates an app",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart golang-http
- Given invalid parameters when -p param (project name) is missing exits with signal 1
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart vertx-rest-prometheus Creates an app",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart rails-shopping-cart
+"passed","","","548","","BddJx Suite","","BddJx Suite","","quickstart python-http
  Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart rails-shopping-cart
- Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart scala-akka-http-quickstart
- Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart python-http
- Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","import
+"passed","","","774123","","BddJx Suite","","BddJx Suite","","import
  Given valid parameters when running import creates an app from the specified folder and promotes it to staging
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-rest-prometheus Creates an app",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart node-http
- Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging
+"failed","","","653","","BddJx Suite","","BddJx Suite","","quickstart rust-http
+ Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart react-quickstart
- Given valid parameters when operating on the quickstart creates a react-quickstart quickstart and promotes it to staging
-",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart aspnet-app Creates an app",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart react-quickstart
+"passed","","","561","","BddJx Suite","","BddJx Suite","","quickstart scala-akka-http-quickstart
  Given invalid parameters when -p param (project name) is missing exits with signal 1
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart python-http
+"failed","","","441","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-web
+ Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging
+",""
+"passed","","","827","","BddJx Suite","","BddJx Suite","","quickstart node-http
+ Given invalid parameters when -p param (project name) is missing exits with signal 1
+",""
+"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart open-liberty Creates an app",""
+"passed","","","450","","BddJx Suite","","BddJx Suite","","quickstart rust-http
+ Given invalid parameters when -p param (project name) is missing exits with signal 1
+",""
+"passed","","","477","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-web
+ Given invalid parameters when -p param (project name) is missing exits with signal 1
+",""
+"failed","","","494","","BddJx Suite","","BddJx Suite","","quickstart python-http
  Given valid parameters when operating on the quickstart creates a python-http quickstart and promotes it to staging
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart rust-http
+"failed","","","566","","BddJx Suite","","BddJx Suite","","quickstart scala-akka-http-quickstart
+ Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging
+",""
+"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart android-quickstart Creates an app",""
+"failed","","","623","","BddJx Suite","","BddJx Suite","","quickstart react-quickstart
+ Given valid parameters when operating on the quickstart creates a react-quickstart quickstart and promotes it to staging
+",""
+"passed","","","635","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-web
  Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
 ",""
-"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-web
- Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1
+"passed","","","448","","BddJx Suite","","BddJx Suite","","quickstart python-http
+ Given invalid parameters when -p param (project name) is missing exits with signal 1
 ",""
+"failed","","","1138","","BddJx Suite","","BddJx Suite","","quickstart node-http
+ Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging
+",""
+"failed","","","929","","BddJx Suite","","BddJx Suite","","quickstart rails-shopping-cart
+ Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging
+",""
+"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart aspnet-app Creates an app",""
+"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart vertx-rest-prometheus Creates an app",""
+"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-rest-prometheus Creates an app",""
+"skipped","","","0","","BddJx Suite","","BddJx Suite","","quickstart spring-boot-http-gradle Creates an app",""

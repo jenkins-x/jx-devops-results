@@ -4,10 +4,10 @@
     "uid" : "c3140f5fe114e19192127754e5c4eaab",
     "name" : "BddJx Suite",
     "statistic" : {
-      "failed" : 0,
+      "failed" : 8,
       "broken" : 0,
-      "skipped" : 32,
-      "passed" : 1,
+      "skipped" : 7,
+      "passed" : 18,
       "unknown" : 0,
       "total" : 33
     }

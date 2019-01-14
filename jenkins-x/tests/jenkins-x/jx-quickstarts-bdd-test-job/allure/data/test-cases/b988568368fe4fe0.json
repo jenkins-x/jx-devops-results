@@ -1,0 +1,37 @@
+{
+  "uid" : "b988568368fe4fe0",
+  "name" : "quickstart golang-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart golang-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 616
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b988568368fe4fe0.json",
+  "parameterValues" : [ ]
+}

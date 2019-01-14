@@ -1,0 +1,37 @@
+{
+  "uid" : "92c07b83c71a9bb9",
+  "name" : "quickstart scala-akka-http-quickstart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart scala-akka-http-quickstart\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n",
+  "time" : {
+    "duration" : 561
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92c07b83c71a9bb9.json",
+  "parameterValues" : [ ]
+}

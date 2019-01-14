@@ -1,0 +1,37 @@
+{
+  "uid" : "a90a27daa9614986",
+  "name" : "quickstart react-quickstart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "historyId" : "BddJx Suite:BddJx Suite#quickstart react-quickstart\n Given invalid parameters when -f param (filter) does not match any quickstart exits with signal 1\n",
+  "time" : {
+    "duration" : 493
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "BddJx Suite"
+  }, {
+    "name" : "package",
+    "value" : "BddJx Suite"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a90a27daa9614986.json",
+  "parameterValues" : [ ]
+}

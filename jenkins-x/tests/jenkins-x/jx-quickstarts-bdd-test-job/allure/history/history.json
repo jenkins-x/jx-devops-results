@@ -3,16 +3,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9ce3ffc1e8e8ea4e",
-      "status" : "skipped",
+      "uid" : "20ebabd41fcbd64e",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 635
       }
     } ]
   },
@@ -20,50 +20,50 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6980ad7bfe34a0bf",
-      "status" : "skipped",
+      "uid" : "a90a27daa9614986",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 493
       }
     } ]
   },
   "BddJx Suite:BddJx Suite#quickstart rust-http\n Given valid parameters when operating on the quickstart creates a rust-http quickstart and promotes it to staging\n" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9137c000b51953ec",
-      "status" : "skipped",
+      "uid" : "4ce8e9cee593e120",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 653
       }
     } ]
   },
   "BddJx Suite:BddJx Suite#quickstart golang-http\n Given valid parameters when operating on the quickstart creates a golang-http quickstart and promotes it to staging\n" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "866e25a1af3358de",
-      "status" : "skipped",
+      "uid" : "f0d9d91ad098e526",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 538
       }
     } ]
   },
@@ -71,16 +71,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1ce1139bf58452c6",
-      "status" : "skipped",
+      "uid" : "a384abdcae41d3bb",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 450
       }
     } ]
   },
@@ -88,33 +88,50 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8fea92230e1f2da7",
-      "status" : "skipped",
+      "uid" : "d39ede29d11525bf",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 576
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart python-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d073be434bcbd70d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 448
       }
     } ]
   },
   "BddJx Suite:BddJx Suite#quickstart python-http\n Given valid parameters when operating on the quickstart creates a python-http quickstart and promotes it to staging\n" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f23e7b0bde39f30",
-      "status" : "skipped",
+      "uid" : "cc6987967efa80bb",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 494
       }
     } ]
   },
@@ -128,24 +145,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6379d9cc08d6875c",
-      "status" : "skipped",
-      "time" : {
-        "duration" : 0
-      }
-    } ]
-  },
-  "BddJx Suite:BddJx Suite#quickstart python-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "661dbd374f18bada",
+      "uid" : "68f900d2639ff64e",
       "status" : "skipped",
       "time" : {
         "duration" : 0
@@ -156,33 +156,33 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "53e1a095a6f2fb15",
-      "status" : "skipped",
+      "uid" : "d7c990cc1117b7fa",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 403
       }
     } ]
   },
   "BddJx Suite:BddJx Suite#quickstart scala-akka-http-quickstart\n Given valid parameters when operating on the quickstart creates a scala-akka-http-quickstart quickstart and promotes it to staging\n" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d0435d1e04b6acc9",
-      "status" : "skipped",
+      "uid" : "524d0b039f710983",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 566
       }
     } ]
   },
@@ -190,50 +190,50 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8e5b501ced53f4b5",
-      "status" : "skipped",
+      "uid" : "4b84cb7a57720d7e",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 586
       }
     } ]
   },
   "BddJx Suite:BddJx Suite#quickstart rails-shopping-cart\n Given valid parameters when operating on the quickstart creates a rails-shopping-cart quickstart and promotes it to staging\n" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c7be56494fd0a511",
-      "status" : "skipped",
+      "uid" : "a57036cb3bf5ab03",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 929
       }
     } ]
   },
   "BddJx Suite:BddJx Suite#quickstart node-http\n Given valid parameters when operating on the quickstart creates a node-http quickstart and promotes it to staging\n" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8e5261d57cbf0a1b",
-      "status" : "skipped",
+      "uid" : "456c974d9af361ee",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 1138
       }
     } ]
   },
@@ -247,7 +247,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d65dca46fcc14f97",
+      "uid" : "12c80de140343fa",
       "status" : "skipped",
       "time" : {
         "duration" : 0
@@ -258,16 +258,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "360d450938637acf",
-      "status" : "skipped",
+      "uid" : "e03e64a792f4b56a",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 896
       }
     } ]
   },
@@ -281,24 +281,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "596fef0c4573ca4f",
-      "status" : "skipped",
-      "time" : {
-        "duration" : 0
-      }
-    } ]
-  },
-  "BddJx Suite:BddJx Suite#quickstart node-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "f4494c6d362f3eae",
+      "uid" : "95ce1b6cd6d15942",
       "status" : "skipped",
       "time" : {
         "duration" : 0
@@ -315,27 +298,44 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8cce2364fd5d59e7",
+      "uid" : "c33041078b323700",
       "status" : "skipped",
       "time" : {
         "duration" : 0
       }
     } ]
   },
-  "BddJx Suite:BddJx Suite#quickstart react-quickstart\n Given valid parameters when operating on the quickstart creates a react-quickstart quickstart and promotes it to staging\n" : {
+  "BddJx Suite:BddJx Suite#quickstart node-http\n Given invalid parameters when -p param (project name) is missing exits with signal 1\n" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4356bac2ad3e6d87",
+      "status" : "passed",
+      "time" : {
+        "duration" : 827
+      }
+    } ]
+  },
+  "BddJx Suite:BddJx Suite#quickstart react-quickstart\n Given valid parameters when operating on the quickstart creates a react-quickstart quickstart and promotes it to staging\n" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bd4bb2b44e34b834",
-      "status" : "skipped",
+      "uid" : "2c7b0b3816d8e696",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 623
       }
     } ]
   },
@@ -343,16 +343,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "560e255a81580ba4",
-      "status" : "skipped",
+      "uid" : "b988568368fe4fe0",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 616
       }
     } ]
   },
@@ -360,16 +360,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "760badb2340d3ace",
-      "status" : "skipped",
+      "uid" : "e6116008455e952",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 477
       }
     } ]
   },
@@ -383,7 +383,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4368d839eb59e237",
+      "uid" : "538c50f265b04389",
       "status" : "skipped",
       "time" : {
         "duration" : 0
@@ -394,16 +394,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a52b8b23882d038d",
-      "status" : "skipped",
+      "uid" : "763669f1521344ea",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 468
       }
     } ]
   },
@@ -417,7 +417,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "de5e64b31df5378",
+      "uid" : "9dc7fbf1313cc229",
       "status" : "skipped",
       "time" : {
         "duration" : 0
@@ -428,16 +428,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "68553660f654908e",
-      "status" : "skipped",
+      "uid" : "8109942b3eb8f0b7",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 1117
       }
     } ]
   },
@@ -445,16 +445,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b0596728d6612291",
-      "status" : "skipped",
+      "uid" : "1a473ec6b1f94e37",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 774123
       }
     } ]
   },
@@ -468,10 +468,10 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3066370c832b4b63",
+      "uid" : "6c10ac8420a81e05",
       "status" : "passed",
       "time" : {
-        "duration" : 777159
+        "duration" : 772400
       }
     } ]
   },
@@ -479,16 +479,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7bfa899223ce6a6a",
-      "status" : "skipped",
+      "uid" : "3b4b01a1f5286753",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 601
       }
     } ]
   },
@@ -496,16 +496,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9b0e803f281ea1ae",
-      "status" : "skipped",
+      "uid" : "74298f152737ef03",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 548
       }
     } ]
   },
@@ -513,16 +513,16 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
-      "passed" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "14c5a2387f513867",
-      "status" : "skipped",
+      "uid" : "92c07b83c71a9bb9",
+      "status" : "passed",
       "time" : {
-        "duration" : 0
+        "duration" : 561
       }
     } ]
   },
@@ -536,7 +536,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9269de05576fde11",
+      "uid" : "40c22aaff8d42337",
       "status" : "skipped",
       "time" : {
         "duration" : 0
@@ -545,18 +545,18 @@
   },
   "BddJx Suite:BddJx Suite#quickstart spring-boot-web\n Given valid parameters when operating on the quickstart creates a spring-boot-web quickstart and promotes it to staging\n" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c44be0023a2e01f6",
-      "status" : "skipped",
+      "uid" : "3382ee1587035466",
+      "status" : "failed",
       "time" : {
-        "duration" : 0
+        "duration" : 441
       }
     } ]
   }
